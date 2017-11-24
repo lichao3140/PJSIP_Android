@@ -1,0 +1,3 @@
+# Referenced at F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\manifests\full\cintercom\debug\AndroidManifest.xml:52
+-keep class com.dpower.cintercom.app.MyApplication { <init>(...); }
+

@@ -1,0 +1,206 @@
+<REASON>
+    <!-- 简体中文 -->
+    <SC>
+        <ITEM>
+            <name>数据错误，无法正确解密数据</name>
+            <value>wrong data</value>
+        </ITEM>
+        <ITEM>
+            <name>错误的协议，无法找到协议名</name>
+            <value>wrong protocol</value>
+        </ITEM>
+        <ITEM>
+            <name>不支持的协议</name>
+            <value>unsupported protocol</value>
+        </ITEM>
+        <ITEM>
+            <name>错误的参数</name>
+            <value>illegal param</value>
+        </ITEM>
+        <ITEM>
+            <name>系统错误</name>
+            <value>system error</value>
+        </ITEM>
+        <ITEM>
+            <name>其他错误</name>
+            <value>other error</value>
+        </ITEM>
+
+        <ITEM>
+            <name>手机号必须填写</name>
+            <value>tel is required</value>
+        </ITEM>
+        <ITEM>
+            <name>密码必须填写</name>
+            <value>password is required</value>
+        </ITEM>
+        <ITEM>
+            <name>验证码错误</name>
+            <value>wrong verification code</value>
+        </ITEM>
+        <ITEM>
+            <name>验证码过期</name>
+            <value>expired verification code</value>
+        </ITEM>
+        <ITEM>
+            <name>用户名已存在</name>
+            <value>username exists</value>
+        </ITEM>
+        <ITEM>
+            <name>用户名密码验证不通过</name>
+            <value>authority fail</value>
+        </ITEM>
+        <ITEM>
+            <name>用户名不存在</name>
+            <value>username not exists</value>
+        </ITEM>
+        <ITEM>
+            <name>设备已绑定</name>
+            <value>bind repeatedly</value>
+        </ITEM>
+        <ITEM>
+            <name>目标不在线</name>
+            <value>unreachable</value>
+        </ITEM>
+        <ITEM>
+            <name>设备未绑定</name>
+            <value>not exist</value>
+        </ITEM>
+    </SC>
+    <!-- 英文 -->
+    <EN>
+        <ITEM>
+            <name>wrong data</name>
+            <value>wrong data</value>
+        </ITEM>
+        <ITEM>
+            <name>wrong protocol</name>
+            <value>wrong protocol</value>
+        </ITEM>
+        <ITEM>
+            <name>unsupported protocol</name>
+            <value>unsupported protocol</value>
+        </ITEM>
+        <ITEM>
+            <name>illegal param</name>
+            <value>illegal param</value>
+        </ITEM>
+        <ITEM>
+            <name>system error</name>
+            <value>system error</value>
+        </ITEM>
+        <ITEM>
+            <name>other error</name>
+            <value>other error</value>
+        </ITEM>
+
+        <ITEM>
+            <name>tel is required</name>
+            <value>tel is required</value>
+        </ITEM>
+        <ITEM>
+            <name>password is required</name>
+            <value>password is required</value>
+        </ITEM>
+        <ITEM>
+            <name>wrong verification code</name>
+            <value>wrong verification code</value>
+        </ITEM>
+        <ITEM>
+            <name>expired verification code</name>
+            <value>expired verification code</value>
+        </ITEM>
+        <ITEM>
+            <name>username exists</name>
+            <value>username exists</value>
+        </ITEM>
+        <ITEM>
+            <name>authority fail</name>
+            <value>authority fail</value>
+        </ITEM>
+        <ITEM>
+            <name>username not exists</name>
+            <value>username not exists</value>
+        </ITEM>
+        <ITEM>
+            <name>bind repeatedly</name>
+            <value>bind repeatedly</value>
+        </ITEM>
+        <ITEM>
+            <name>unreachable</name>
+            <value>unreachable</value>
+        </ITEM>
+        <ITEM>
+            <name>not exist</name>
+            <value>not exist</value>
+        </ITEM>
+    </EN>
+    <!-- 繁体中文 -->
+    <TC>
+        <ITEM>
+            <name>數據錯誤，無法正確解密數據</name>
+            <value>wrong data</value>
+        </ITEM>
+        <ITEM>
+            <name>錯誤的協議，無法找到協議名</name>
+            <value>wrong protocol</value>
+        </ITEM>
+        <ITEM>
+            <name>不支持的協議</name>
+            <value>unsupported protocol</value>
+        </ITEM>
+        <ITEM>
+            <name>錯誤的參數</name>
+            <value>illegal param</value>
+        </ITEM>
+        <ITEM>
+            <name>系統錯誤</name>
+            <value>system error</value>
+        </ITEM>
+        <ITEM>
+            <name>其他錯誤</name>
+            <value>other error</value>
+        </ITEM>
+
+        <ITEM>
+            <name>手機號必須填寫</name>
+            <value>tel is required</value>
+        </ITEM>
+        <ITEM>
+            <name>密碼必須填寫</name>
+            <value>password is required</value>
+        </ITEM>
+        <ITEM>
+            <name>驗證碼錯誤</name>
+            <value>wrong verification code</value>
+        </ITEM>
+        <ITEM>
+            <name>驗證碼過期</name>
+            <value>expired verification code</value>
+        </ITEM>
+        <ITEM>
+            <name>用戶名已存在</name>
+            <value>username exists</value>
+        </ITEM>
+        <ITEM>
+            <name>用戶名密碼驗證不通過</name>
+            <value>authority fail</value>
+        </ITEM>
+        <ITEM>
+            <name>用戶名不存在</name>
+            <value>username not exists</value>
+        </ITEM>
+        <ITEM>
+            <name>設備已綁定</name>
+            <value>bind repeatedly</value>
+        </ITEM>
+        <ITEM>
+            <name>目標不在線</name>
+            <value>unreachable</value>
+        </ITEM>
+        <ITEM>
+            <name>設備未綁定</name>
+            <value>not exist</value>
+        </ITEM>
+    </TC>
+</REASON>

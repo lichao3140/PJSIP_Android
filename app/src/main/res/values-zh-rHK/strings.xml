@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">云對講</string>
+
+    <string name="last">返回</string>
+    <string name="notify_ok">確定</string>
+    <string name="notify_cancel">取消</string>
+
+    <string name="home_monitor">監 視</string>
+
+    <string name="choosemode_title">選擇模式</string>
+    <string name="choosemode_mode_qr">二維碼綁定</string>
+
+    <string name="monitor_hint_callout">監視</string>
+
+    <string name="setting_title">設置</string>
+    <string name="monitor_accept">接聽</string>
+    <string name="monitor_hangup">掛斷</string>
+    <string name="monitor_snapshot">截圖</string>
+    <string name="monitor_unlock">開鎖</string>
+    <string name="monitor_speaker">揚聲器</string>
+    <string name="monitor_microphone">麥克風</string>
+    <string name="opendoor_success">開鎖成功</string>
+    <string name="monitor_callin">門口機來電</string>
+    <string name="monitor_shot_photo">截圖已保存到相冊</string>
+    <string name="monitor_shot_photo_savefail">截圖失敗</string>
+    <string name="monitor_callin_timeout">通話結束</string>
+    <string name="monitor_callout_timeout">監視結束</string>
+
+    <string name="deviceinfo_info">設備信息</string>
+    <string name="setdevice_devnote">設備備註</string>
+    <string name="setting_devid">設備ID</string>
+    <string name="history_title">記錄</string>
+    <string name="photomessage_title">相冊</string>
+    <string name="setting_devnote_saved">設備備註已保存</string>
+    <string name="setting_qrcode_title">開門授權</string>
+
+    <string name="choosedevice_pairing">正在連接中</string>
+
+    <!-- capture.xml -->
+    <string name="open_or_close_light">打開/關閉閃光燈</string>
+    <string name="hint_qrcode">將二維碼放入框內，即可掃描</string>
+
+    <!-- CaptureActivity -->
+    <string name="qrcode_scanimg_fail">沒有發現二維碼</string>
+    <string name="qrcode_camera_fail">沒有發現相機</string>
+    <string name="qrcode_bind_success">綁定成功</string>
+    <string name="qrcode_bind_fail">綁定失敗</string>
+
+    <!-- QRCodeData.java -->
+    <string name="door_machine">門口機</string>
+    <string name="room_machine">室內機</string>
+    <string name="district">區</string>
+    <string name="building">棟</string>
+    <string name="unit">單元</string>
+    <string name="room">室</string>
+
+    <!-- MainActivity.java -->
+    <string name="main_app_info">APP信息</string>
+    <string name="main_app_version">版本號&#058;</string>
+    <string name="main_guide_hint">點這裡，添加設備。</string>
+    <string name="main_device_unbind">未綁定設備</string>
+    <string name="main_unlogin">未連接</string>
+    <string name="main_no_network">網絡已斷開</string>
+    <string name="monitor_offline">已離線</string>
+    <string name="main_unbind">解綁</string>
+    <string name="main_unbind_success">解綁成功</string>
+    <string name="main_unbind_fail">解綁失敗</string>
+    <string name="main_unbind_title">提示</string>
+    <string name="main_unbind_content">已綁定設備，請解綁后再進行綁定。</string>
+    <string name="main_cover_content">解綁失敗，是否直接覆蓋綁定設備。</string>
+    <string name="main_cover">覆蓋</string>
+    <string name="main_info_mode_setting">模式設置</string>
+    <string name="main_info_safemode">安防</string>
+    <string name="main_info_smartmode">智能家居</string>
+    <string name="main_info_history">歷史記錄</string>
+    <string name="main_info_alarm_record">報警記錄</string>
+    <string name="main_info_call_record">呼叫記錄</string>
+    <string name="main_info_msg_record">小區消息</string>
+    <string name="main_info_none">無</string>
+
+    <!-- SateAdapter.java -->
+    <string name="safe_atHome">在家</string>
+    <string name="safe_rest">夜間</string>
+    <string name="safe_leaveHome">離家</string>
+    <string name="safe_noProtected">撤防</string>
+
+    <!-- SmartAdapter.java -->
+    <string name="smart_atHome">在家模式</string>
+    <string name="smart_dining">聚餐模式</string>
+    <string name="smart_sleep">就寢模式</string>
+    <string name="smart_entertainment">娛樂模式</string>
+    <string name="smart_theater">影視模式</string>
+    <string name="smart_closeAll">全關模式</string>
+
+    <!-- ModeControl.java -->
+    <string name="modecontrol_title_safemode">安防</string>
+    <string name="modecontrol_title_smartmode">智能家居</string>
+    <string name="modecontrol_unknown">未知</string>
+
+    <!-- RefreshableView.java -->
+    <string name="updated_at"></string>
+    <string name="refreshing">刷新中</string>
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="pull_to_loading">沒有更多</string>
+    <string name="release_to_refresh">釋放刷新</string>
+
+    <!-- -->
+    <string name="callrecord_saved_call"> &#x0020;已接聽</string>
+    <string name="callrecord_missed_call"> &#x0020;未接聽</string>
+    <string name="callinfo_title">詳情</string>
+    <string name="callinfo_photo_fail">獲取圖片失敗</string>
+    <string name="callinfo_photo_nophoto">沒有圖片</string>
+    <string name="callinfo_photo_busy">服務器忙，請等待！</string>
+    <string name="callinfo_photo_timeout">獲取圖片超時</string>
+
+    <!-- 相冊 -->
+    <string name="viewpager_indicator">%1$d/%2$d</string>
+    <string name="devicelist_edit">編輯</string>
+    <string name="devicelist_cancel">取消</string>
+    <string name="devicelist_selectall">全選</string>
+    <string name="devicelist_deleall">全部刪除</string>
+    <string name="devicelist_deleteselected">刪除</string>
+
+    <!-- activity_alarm_dialog.xml -->
+    <string name="alarm_dialog_title">發生報警</string>
+    <string name="alarm_dialog_disalarm">解除報警</string>
+    <string name="alarm_dialog_ignore">忽略</string>
+
+    <!-- activity_qrinfo.xml -->
+    <string name="qrinfo_title">開門授權</string>
+    <string name="qrinfo_endtime">有效時間</string>
+    <string name="qrinfo_unlockcount">開鎖次數</string>
+    <string name="qrinfo_generate">授權</string>
+    <string name="qrinfo_unlockcount_is_null">請輸入開鎖次數</string>
+    <string name="qrinfo_qr_saved">將二維碼保存到相冊</string>
+    <string name="qrinfo_qr_save_ok">二維碼已保存到相冊</string>
+    <string name="qrinfo_qr_save_fail">二維碼保存失敗</string>
+    <string name="qrinfo_qr_share">分享二維碼</string>
+
+    <!-- share.xml -->
+    <string name="qq_firend">QQ好友</string>
+    <string name="wechat_firend">微信好友</string>
+    <string name="cancel">取消</string>
+    <!-- ShareUtil.java -->
+    <string name="share_title">標題</string>
+    <string name="share_content">內容</string>
+    <string name="share_error">分享出錯</string>
+    <string name="wechat_not_installed">未安裝微信！</string>
+    <string name="send_img_file_not_exist">圖片不存在</string>
+
+    <!-- dialog_selector.xml -->
+    <string name="selector_cancel">取消</string>
+    <string name="selector_select">選擇</string>
+    <string name="selector_title">請選擇時間</string>
+    <string name="selector_year">年</string>
+    <string name="selector_month">月</string>
+    <string name="selector_date">日</string>
+    <string name="selector_hour">時</string>
+    <string name="selector_minute">分</string>
+
+    <string name="main_alarm">報警</string>
+    <string name="main_room_number">號</string>
+</resources>

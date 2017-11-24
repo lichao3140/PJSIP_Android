@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:layout_width="fill_parent"  
+    android:layout_height="wrap_content"  
+    android:background="#FFFFFF"  
+    android:orientation="vertical" >  
+  
+    <LinearLayout  
+        android:layout_width="fill_parent"  
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"       
+        android:orientation="horizontal" >    <!-- android:layout_marginTop="@dimen/common_margin_default1"  -->  
+  
+        <RelativeLayout  
+            android:id="@+id/view_share_qq"  
+            android:layout_width="0dp"  
+            android:layout_height="wrap_content"  
+            android:layout_weight="1" >  
+  
+            <ImageView  
+                android:id="@+id/share_qq"
+                android:layout_width="wrap_content"  
+                android:layout_height="wrap_content"  
+                android:layout_centerHorizontal="true"  
+                android:src="@mipmap/icon_qq" />
+  
+            <TextView  
+                android:id="@+id/tv_qq_firend"  
+                android:layout_width="wrap_content"  
+                android:layout_height="wrap_content"  
+                android:layout_below="@id/share_qq"  
+                android:layout_centerHorizontal="true"  
+                 
+                android:text="@string/qq_firend"  
+              
+                android:textSize="10sp" />   <!--android:layout_marginTop="@dimen/common_margin_small"-->
+        </RelativeLayout>  
+  
+        <RelativeLayout  
+            android:id="@+id/view_share_wechat"  
+            android:layout_width="0dp"  
+            android:layout_height="wrap_content"  
+            android:layout_weight="1" >  
+  
+            <ImageView  
+                android:id="@+id/share_wechat" 
+                android:layout_width="wrap_content"  
+                android:layout_height="wrap_content"  
+                android:layout_centerHorizontal="true"  
+                android:src="@mipmap/icon_wechat" />
+  
+            <TextView  
+                android:id="@+id/tv_wechat_firend"  
+                android:layout_width="wrap_content"  
+                android:layout_height="wrap_content"  
+                android:layout_below="@id/share_wechat"  
+                android:layout_centerHorizontal="true"  
+                
+                android:text="@string/wechat_firend"  
+               
+                android:textSize="10sp" />   <!-- android:layout_marginTop="@dimen/common_margin_small" -->  
+        </RelativeLayout>  
+    </LinearLayout>  
+    
+	<TextView  
+	       android:layout_width="fill_parent"  
+	       android:layout_height="1dp"   
+	       android:background="#BFBFBF" />
+	
+    <Button  
+        android:id="@+id/share_cancel"  
+        android:layout_width="fill_parent"  
+        android:layout_height="wrap_content"  
+        android:text="@string/cancel"
+        android:textColor="#000000"
+        android:background="#FFFFFF" />  
+  
+</LinearLayout>  

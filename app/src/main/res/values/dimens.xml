@@ -1,0 +1,22 @@
+<resources>
+    
+    <dimen name="progess_width">50dp</dimen>
+    
+    <!-- login dialog -->
+    <dimen name="logout_btn_textsize">16sp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="title_textsize">18sp</dimen>
+
+    <!-- activity_main.xml -->
+    <dimen name="main_divider_height">2px</dimen>
+
+    <!-- modecontrol.java -->
+    <dimen name="layout_padding_top">10px</dimen>
+    <dimen name="layout_padding_bottom">25px</dimen>
+    <dimen name="adapterItem_tv_textSize">16sp</dimen>
+
+    <!-- alarm_dialog_item.xml -->
+    <dimen name="alarm_dialog_textSize">16sp</dimen>
+</resources>

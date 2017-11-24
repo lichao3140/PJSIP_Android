@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+	<!-- <TextView 
+	    android:id="@+id/photo_date"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_marginTop="10dp"
+	    android:layout_gravity="center"
+	    android:shadowColor="@color/black"
+	    android:shadowRadius="1"
+	    android:shadowDx="2"
+	    android:shadowDy="2"
+	    android:text="2016-12-07"
+	    android:textColor="@color/white"
+	    android:textSize="20sp" /> -->
+    
+    <com.dpower.cintercom.widget.MyGridView
+        android:id="@+id/photo_content"
+        android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_margin="10dp"
+		android:layout_gravity="center"
+		android:gravity="center"
+		android:scrollbarStyle="outsideOverlay"
+		android:verticalSpacing="10dp"
+    	android:horizontalSpacing="10dp"
+		android:numColumns="2" />
+</LinearLayout>

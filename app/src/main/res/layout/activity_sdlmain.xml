@@ -1,0 +1,89 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.dpower.cintercom.SDLMainActivity"
+	xmlns:TungkongWu="http://schemas.android.com/apk/res-auto">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/title_bg" >
+
+		<ImageView
+			android:id="@+id/main_iv_online"
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:layout_gravity="start"
+			android:background="@mipmap/room_offline" />
+
+        <TextView
+            android:id="@+id/main_tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:gravity="center_vertical|start"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+		<Button
+			android:id="@+id/main_btn_doornumber"
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:layout_gravity="center"
+			android:drawableRight="@mipmap/png_title_arrow"
+			android:paddingLeft="24dp"
+			android:paddingRight="24dp"
+			android:gravity="center_vertical"
+			android:text=""
+			android:textColor="@color/white"
+			android:textSize="20sp"
+			android:onClick="onClick"
+			android:background="@color/alpha" />
+
+		<ImageButton
+            android:id="@+id/main_btn_adddevice"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:minWidth="48dp"
+            android:src="@mipmap/png_main_icon_add"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:scaleType="centerInside"
+            android:background="@null"
+            android:layout_gravity="center_vertical|end" />
+    </FrameLayout>
+
+    <LinearLayout
+        android:id="@+id/main_layout_container"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+		android:background="@color/page_content_bg"
+        android:layout_weight="10"
+		android:orientation="vertical">
+		<!--android:background="@color/page_content_bg"-->
+		<!--android:background="@mipmap/jpg_bg"-->
+
+		<com.dpower.cintercom.widget.ViewPagerIndicator
+			android:id="@+id/indicator"
+			android:layout_width="match_parent"
+			android:layout_height="45dp"
+			android:background="@drawable/shape_backgroud"
+			TungkongWu:visible_tab_count="2"
+			android:orientation="horizontal" >
+		</com.dpower.cintercom.widget.ViewPagerIndicator>
+
+		<com.dpower.cintercom.widget.NoScrollViewPager
+			android:id="@+id/viewpager"
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
+			android:layout_weight="1">
+		</com.dpower.cintercom.widget.NoScrollViewPager>
+	</LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,4 @@
+#Fri Nov 24 11:28:29 CST 2017
+base.0=F\:\\lqh\\2700dp1\\DPCIntercom_AndroidSDK_v1.0.44\\PJSIP_Android\\app\\build\\intermediates\\transforms\\dexMerger\\cintercom\\debug\\4
+renamed.0=classes.dex
+file.0=F\:\\lqh\\2700dp1\\DPCIntercom_AndroidSDK_v1.0.44\\PJSIP_Android\\app\\build\\intermediates\\transforms\\dexMerger\\cintercom\\debug\\4\\classes.dex

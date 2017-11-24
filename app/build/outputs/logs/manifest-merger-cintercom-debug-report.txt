@@ -1,0 +1,586 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:2:1-258:12
+INJECTED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:2:1-258:12
+INJECTED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:2:1-258:12
+INJECTED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:2:1-258:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\4f021ad2c480d6c8306de4b93316740b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\07d6b16ce6de0f1777e1979c4837ec65\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.0-alpha7.aar\d50559a484b6078686dc9a686f6c1719\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\61e95a01e5cc40d647da961bfe2cde2b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\00f04f51ea816b4b45cf3bfaaa5d9bec\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8428a5e84beece5a658438a6b67d8e15\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e0c9d24d3fb74a5e32baf21bbcdf4694\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2c7d209fefed41e49f01bc78dbf2b7ce\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\2de57e62c9c84a1f58aa944f2bab705c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ba08a984531f2d986666631171e01a52\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7f98acbd1c646f4348dfb7ecbeb3fec2\AndroidManifest.xml:17:1-31:12
+INJECTED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:2:1-258:12
+INJECTED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:2:1-258:12
+INJECTED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:2:1-258:12
+	package
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:2:1-258:12
+		INJECTED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:2:1-258:12
+		INJECTED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:2:11-69
+permission#com.dpower.cintercom.permission.JPUSH_MESSAGE
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:5:5-7:47
+	android:protectionLevel
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:7:9-44
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:6:9-69
+uses-permission#com.dpower.cintercom.permission.JPUSH_MESSAGE
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:9:5-85
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:9:22-82
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:12:22-75
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:14:5-89
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:14:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:16:22-65
+uses-feature#android.hardware.camera
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:17:5-60
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:17:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:18:5-70
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:18:19-67
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:20:22-65
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.VIBRATE
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:22:22-63
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:23:5-84
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:23:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.INTERNET
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:25:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:27:5-76
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:27:22-73
+uses-permission#android.permission.CAMERA
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:28:5-65
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:28:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:29:5-71
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:29:22-68
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:30:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:32:5-75
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:32:22-72
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:34:5-80
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:34:22-77
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:35:5-81
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:35:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:36:5-73
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:36:22-70
+uses-permission#android.permission.READ_LOGS
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:37:5-68
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:37:22-65
+uses-permission#android.permission.REORDER_TASKS
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:38:5-72
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:38:22-69
+uses-permission-sdk-23#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:40:5-88
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:40:29-85
+uses-permission-sdk-23#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:41:5-86
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:41:29-83
+application
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:43:5-256:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\07d6b16ce6de0f1777e1979c4837ec65\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\07d6b16ce6de0f1777e1979c4837ec65\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.0-alpha7.aar\d50559a484b6078686dc9a686f6c1719\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.0-alpha7.aar\d50559a484b6078686dc9a686f6c1719\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\61e95a01e5cc40d647da961bfe2cde2b\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\61e95a01e5cc40d647da961bfe2cde2b\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\00f04f51ea816b4b45cf3bfaaa5d9bec\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\00f04f51ea816b4b45cf3bfaaa5d9bec\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8428a5e84beece5a658438a6b67d8e15\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8428a5e84beece5a658438a6b67d8e15\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e0c9d24d3fb74a5e32baf21bbcdf4694\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e0c9d24d3fb74a5e32baf21bbcdf4694\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2c7d209fefed41e49f01bc78dbf2b7ce\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2c7d209fefed41e49f01bc78dbf2b7ce\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\2de57e62c9c84a1f58aa944f2bab705c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\2de57e62c9c84a1f58aa944f2bab705c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ba08a984531f2d986666631171e01a52\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ba08a984531f2d986666631171e01a52\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7f98acbd1c646f4348dfb7ecbeb3fec2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7f98acbd1c646f4348dfb7ecbeb3fec2\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:49:9-35
+	android:label
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:47:9-41
+	android:roundIcon
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:48:9-48
+	android:icon
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:46:9-43
+	android:allowBackup
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:45:9-35
+	android:theme
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:50:9-40
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:44:9-62
+activity#com.dpower.cintercom.activity.LaunchActivity
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:52:9-60:20
+	android:screenOrientation
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:55:13-49
+	android:configChanges
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:54:13-74
+	android:theme
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:53:13-63
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:52:19-78
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:56:13-59:29
+action#android.intent.action.MAIN
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:57:17-69
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:57:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:58:27-74
+activity#com.dpower.cintercom.SDLMainActivity
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:62:9-68:20
+	android:screenOrientation
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:67:13-49
+	android:launchMode
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:66:13-43
+	android:configChanges
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:65:13-74
+	android:theme
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:63:13-49
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:64:13-64
+activity#com.dpower.cintercom.activity.VideoActivity
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:70:9-76:20
+	android:screenOrientation
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:74:13-49
+	android:launchMode
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:75:13-44
+	android:configChanges
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:73:13-74
+	android:theme
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:71:13-49
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:72:13-71
+activity#com.dpower.cintercom.activity.SettingActivity
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:78:9-84:20
+	android:screenOrientation
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:82:13-49
+	android:launchMode
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:83:13-44
+	android:configChanges
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:81:13-74
+	android:theme
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:79:13-49
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:80:13-73
+activity#com.dpower.cintercom.activity.ChooseModeActivity
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:86:9-91:20
+	android:screenOrientation
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:90:13-49
+	android:configChanges
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:89:13-74
+	android:theme
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:87:13-49
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:88:13-76
+activity#scanner.CaptureActivity
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:93:9-99:20
+	android:screenOrientation
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:97:13-49
+	android:launchMode
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:98:13-44
+	android:configChanges
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:96:13-74
+	android:theme
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:94:13-49
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:95:13-51
+activity#com.dpower.cintercom.activity.PhotoMessageActivity
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:101:9-106:20
+	android:screenOrientation
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:105:13-49
+	android:configChanges
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:104:13-74
+	android:theme
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:102:13-49
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:103:13-78
+activity#com.dpower.cintercom.activity.ImagePagerActivity
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:108:9-113:20
+	android:screenOrientation
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:112:13-49
+	android:configChanges
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:111:13-74
+	android:theme
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:109:13-49
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:110:13-76
+activity#com.dpower.cintercom.activity.QRInfoActivity
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:115:9-121:20
+	android:screenOrientation
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:119:13-49
+	android:launchMode
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:120:13-44
+	android:configChanges
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:118:13-74
+	android:theme
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:116:13-49
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:117:13-72
+service#com.dpower.dpsiplib.service.DPSipService
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:123:9-124:19
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:123:18-73
+service#com.dpower.dpsiplib.CoreService
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:126:9-128:19
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:127:13-59
+service#com.dpower.dpsiplib.CoreService$CoreHelpService
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:130:9-132:19
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:131:13-75
+service#com.dpower.dpsiplib.JobSchedulerService
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:134:9-135:72
+	android:permission
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:135:13-69
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:134:18-72
+activity#com.tencent.tauth.AuthActivity
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:137:9-147:20
+	android:launchMode
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:140:13-44
+	android:noHistory
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:139:13-37
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:138:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:141:13-146:29
+action#android.intent.action.VIEW
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:142:17-69
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:142:25-66
+category#android.intent.category.DEFAULT
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:143:17-76
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:143:27-73
+category#android.intent.category.BROWSABLE
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:144:17-78
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:144:27-75
+data
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:145:17-60
+	android:scheme
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:145:23-57
+activity#com.tencent.connect.common.AssistActivity
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:149:9-151:77
+	android:configChanges
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:151:13-74
+	android:theme
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:150:13-72
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:149:19-75
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:154:9-158:20
+	android:exported
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:157:13-37
+	android:theme
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:156:13-49
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:155:13-62
+activity#cn.jpush.android.ui.PushActivity
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:161:9-171:20
+	android:exported
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:165:13-37
+	android:configChanges
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:163:13-63
+	android:theme
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:164:13-60
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:162:13-60
+intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+com.dpower.cintercom
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:166:13-170:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:167:17-75
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:167:25-72
+category#com.dpower.cintercom
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:169:17-65
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:169:27-62
+service#cn.jpush.android.service.PushService
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:175:9-185:19
+	android:process
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:177:13-36
+	android:exported
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:178:13-37
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:176:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:179:13-184:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:180:17-75
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:180:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:181:17-73
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:181:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:182:17-78
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:182:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:183:17-76
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:183:25-73
+service#cn.jpush.android.service.DaemonService
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:189:9-198:19
+	android:enabled
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:191:13-35
+	android:exported
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:192:13-36
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:190:13-66
+intent-filter#cn.jpush.android.intent.DaemonService+com.dpower.cintercom
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:193:13-196:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:194:17-80
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:194:25-77
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:201:9-220:20
+	android:enabled
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:203:13-35
+	android:exported
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:204:13-37
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:202:13-65
+intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+com.dpower.cintercom
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:205:13-208:29
+	android:priority
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:205:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:206:17-94
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:206:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:209:13-212:29
+action#android.intent.action.USER_PRESENT
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:210:17-77
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:210:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:211:17-79
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:211:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:214:13-219:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:215:17-78
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:215:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:216:17-80
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:216:25-77
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:223:9-99
+	android:exported
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:223:73-97
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:223:19-72
+receiver#com.dpower.push.jpush.broadcast.JPushReceiver
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:226:9-238:20
+	android:enabled
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:229:13-35
+	android:exported
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:228:13-37
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:227:13-73
+intent-filter#cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+com.dpower.cintercom
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:230:13-237:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:231:17-79
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:231:25-76
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:232:17-83
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:232:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:233:17-88
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:233:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:234:17-86
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:234:25-83
+action#cn.jpush.android.intent.CONNECTION
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:235:17-77
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:235:25-74
+receiver#com.dpower.push.jpush.broadcast.MyJPushMessageReceiver
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:241:9-246:20
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:241:19-88
+intent-filter#cn.jpush.android.intent.RECEIVE_MESSAGE+com.dpower.cintercom
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:242:13-245:29
+action#cn.jpush.android.intent.RECEIVE_MESSAGE
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:243:17-82
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:243:25-79
+meta-data#JPUSH_CHANNEL
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:248:9-84
+	android:value
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:248:49-82
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:248:20-48
+meta-data#JPUSH_APPKEY
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:249:9-91
+	android:value
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:249:48-88
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:249:20-47
+activity#com.dpower.cintercom.activity.AlarmDialog
+ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:251:9-255:20
+	android:screenOrientation
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:254:13-49
+	android:configChanges
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:253:13-74
+	android:theme
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:252:13-52
+	android:name
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml:251:19-75
+uses-sdk
+INJECTED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml
+INJECTED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\4f021ad2c480d6c8306de4b93316740b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\4f021ad2c480d6c8306de4b93316740b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\07d6b16ce6de0f1777e1979c4837ec65\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\07d6b16ce6de0f1777e1979c4837ec65\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.0-alpha7.aar\d50559a484b6078686dc9a686f6c1719\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.0-alpha7.aar\d50559a484b6078686dc9a686f6c1719\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\61e95a01e5cc40d647da961bfe2cde2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\61e95a01e5cc40d647da961bfe2cde2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\00f04f51ea816b4b45cf3bfaaa5d9bec\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\00f04f51ea816b4b45cf3bfaaa5d9bec\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8428a5e84beece5a658438a6b67d8e15\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8428a5e84beece5a658438a6b67d8e15\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e0c9d24d3fb74a5e32baf21bbcdf4694\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e0c9d24d3fb74a5e32baf21bbcdf4694\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2c7d209fefed41e49f01bc78dbf2b7ce\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2c7d209fefed41e49f01bc78dbf2b7ce\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\2de57e62c9c84a1f58aa944f2bab705c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\2de57e62c9c84a1f58aa944f2bab705c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ba08a984531f2d986666631171e01a52\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ba08a984531f2d986666631171e01a52\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7f98acbd1c646f4348dfb7ecbeb3fec2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7f98acbd1c646f4348dfb7ecbeb3fec2\AndroidManifest.xml:21:5-23:58
+INJECTED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml
+INJECTED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\07d6b16ce6de0f1777e1979c4837ec65\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml
+		ADDED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\07d6b16ce6de0f1777e1979c4837ec65\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\61e95a01e5cc40d647da961bfe2cde2b\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\61e95a01e5cc40d647da961bfe2cde2b\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\00f04f51ea816b4b45cf3bfaaa5d9bec\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\00f04f51ea816b4b45cf3bfaaa5d9bec\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8428a5e84beece5a658438a6b67d8e15\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8428a5e84beece5a658438a6b67d8e15\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e0c9d24d3fb74a5e32baf21bbcdf4694\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e0c9d24d3fb74a5e32baf21bbcdf4694\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2c7d209fefed41e49f01bc78dbf2b7ce\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2c7d209fefed41e49f01bc78dbf2b7ce\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\2de57e62c9c84a1f58aa944f2bab705c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\2de57e62c9c84a1f58aa944f2bab705c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ba08a984531f2d986666631171e01a52\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ba08a984531f2d986666631171e01a52\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7f98acbd1c646f4348dfb7ecbeb3fec2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7f98acbd1c646f4348dfb7ecbeb3fec2\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\07d6b16ce6de0f1777e1979c4837ec65\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\07d6b16ce6de0f1777e1979c4837ec65\AndroidManifest.xml:26:9-47

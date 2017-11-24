@@ -1,0 +1,140 @@
+<SAFEMODE>
+    <!-- 简体中文 -->
+    <SC>
+        <ITEM>
+            <name>设备正忙，请稍后再试！</name>
+            <value>1</value>
+        </ITEM>
+        <ITEM>
+            <name>呼叫超时</name>
+            <value>2</value>
+        </ITEM>
+        <ITEM>
+            <name>设备正忙，请稍后再试！</name>
+            <value>80</value>
+            <value>100</value>
+        </ITEM>
+        <ITEM>
+            <name>连接互联网失败！</name>
+            <value>83</value>
+            <value>84</value>
+            <value>85</value>
+            <value>101</value>
+            <value>105</value>
+            <value>106</value>
+            <value>110</value>
+        </ITEM>
+        <ITEM>
+            <name>空间不足</name>
+            <value>90</value>
+        </ITEM>
+        <ITEM>
+            <name>终端已挂断</name>
+            <value>104</value>
+        </ITEM>
+        <ITEM>
+            <name>连接超时</name>
+            <value>108</value>
+        </ITEM>
+        <ITEM>
+            <name>网络错误，请重新登录！</name>
+            <value>7</value>
+        </ITEM>
+        <ITEM>
+            <name>终端设备已掉线</name>
+            <value>4</value>
+        </ITEM>
+    </SC>
+    <!-- 英文 -->
+    <EN>
+        <ITEM>
+            <name>Video source busy,try it later!</name>
+            <value>1</value>
+        </ITEM>
+        <ITEM>
+            <name>Call a timeout</name>
+            <value>2</value>
+        </ITEM>
+        <ITEM>
+            <name>Monitor failed, your family is monitoring.</name>
+            <value>80</value>
+            <value>100</value>
+        </ITEM>
+        <ITEM>
+            <name>Network error, please try again later！</name>
+            <value>83</value>
+            <value>84</value>
+            <value>85</value>
+            <value>101</value>
+            <value>105</value>
+            <value>106</value>
+            <value>110</value>
+        </ITEM>
+        <ITEM>
+            <name>No enough space</name>
+            <value>90</value>
+        </ITEM>
+        <ITEM>
+            <name>The terminal has hung up the phone</name>
+            <value>104</value>
+        </ITEM>
+        <ITEM>
+            <name>Connection timeout, monitor failed</name>
+            <value>108</value>
+        </ITEM>
+        <ITEM>
+            <name>Network error, please login again later！</name>
+            <value>7</value>
+        </ITEM>
+        <ITEM>
+            <name>Your mechile is offline</name>
+            <value>4</value>
+        </ITEM>
+    </EN>
+    <!-- 繁体中文-->
+    <TC>
+        <ITEM>
+            <name>設備正忙，請稍後再試！</name>
+            <value>1</value>
+        </ITEM>
+        <ITEM>
+            <name>至電超時</name>
+            <value>2</value>
+        </ITEM>
+        <ITEM>
+            <name>設備正忙，請稍後再試！</name>
+            <value>80</value>
+            <value>100</value>
+        </ITEM>
+        <ITEM>
+            <name>連接互聯網失敗！</name>
+            <value>83</value>
+            <value>84</value>
+            <value>85</value>
+            <value>101</value>
+            <value>105</value>
+            <value>106</value>
+            <value>110</value>
+        </ITEM>
+        <ITEM>
+            <name>儲存空間不足</name>
+            <value>90</value>
+        </ITEM>
+        <ITEM>
+            <name>終端已掛線</name>
+            <value>104</value>
+        </ITEM>
+        <ITEM>
+            <name>連接超時</name>
+            <value>108</value>
+        </ITEM>
+        <ITEM>
+            <name>網路錯誤，請重新登錄！</name>
+            <value>7</value>
+        </ITEM>
+        <ITEM>
+            <name>終端已掛線</name>
+            <value>4</value>
+        </ITEM>
+    </TC>
+</SAFEMODE>

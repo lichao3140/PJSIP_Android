@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">CIntercom</string>
+
+    <string name="last">Back</string>
+    <string name="notify_ok">OK</string>
+    <string name="notify_cancel">Cancel</string>
+
+    <string name="home_monitor">Monitor</string>
+
+    <string name="choosemode_title">Select Mode</string>
+    <string name="choosemode_mode_qr">QR Code Binding</string>
+
+    <string name="monitor_hint_callout">Call out&#8230;</string>
+
+    <string name="setting_title">Settings</string>
+    <string name="monitor_accept">Anwser</string>
+    <string name="monitor_hangup">Hang up</string>
+    <string name="monitor_snapshot">Snapshot</string>
+    <string name="monitor_unlock">Unlock</string>
+    <string name="monitor_speaker">Speaker</string>
+    <string name="monitor_microphone">Mic</string>
+    <string name="opendoor_success">Unlock success</string>
+    <string name="monitor_callin">Call From Door</string>
+    <string name="monitor_shot_photo">Screenshot has been saved in the album</string>
+    <string name="monitor_shot_photo_savefail">Screenshot fail</string>
+    <string name="monitor_callin_timeout">End of the call</string>
+    <string name="monitor_callout_timeout">End of the monitor</string>
+
+    <string name="deviceinfo_info">Details</string>
+    <string name="setdevice_devnote">Device Note</string>
+    <string name="setting_devid">Device ID</string>
+    <string name="history_title">History</string>
+    <string name="photomessage_title">Album</string>
+    <string name="setting_devnote_saved">Device Note has been saved</string>
+    <string name="setting_qrcode_title">Authorized Opening</string>
+
+    <string name="choosedevice_pairing">Connecting</string>
+
+    <!-- capture.xml -->
+    <string name="open_or_close_light">Open/close the flash</string>
+    <string name="hint_qrcode">Align QR code within frame to scan</string>
+
+    <!-- CaptureActivity -->
+    <string name="qrcode_scanimg_fail">QR Code not found</string>
+    <string name="qrcode_camera_fail">Camera not found</string>
+    <string name="qrcode_bind_success">Bind success</string>
+    <string name="qrcode_bind_fail">Bind failed</string>
+
+    <!-- QRCodeData.java -->
+    <string name="door_machine">door machine</string>
+    <string name="room_machine">room machine</string>
+    <string name="district">&#160;district&#160;</string>
+    <string name="building">&#160;building&#160;</string>
+    <string name="unit">&#160;unit&#160;</string>
+    <string name="room">&#160;room</string>
+
+    <!-- MainActivity.java -->
+    <string name="main_app_info">APP Information</string>
+    <string name="main_app_version">Version&#058;</string>
+    <string name="main_guide_hint">Click here to add the device.</string>
+    <string name="main_device_unbind">Not bound device</string>
+    <string name="main_unlogin">Not connected</string>
+    <string name="main_no_network">The network is down</string>
+    <string name="monitor_offline">Offline</string>
+    <string name="main_unbind">Unbind</string>
+    <string name="main_unbind_success">Unbind success</string>
+    <string name="main_unbind_fail">Unbind failed</string>
+    <string name="main_unbind_title">Hint</string>
+    <string name="main_unbind_content">Bound device,please bind again before binding.</string>
+    <string name="main_cover_content">Unbundling failure, whether directly cover binding equipment.</string>
+    <string name="main_cover">Cover</string>
+    <string name="main_info_mode_setting">Mode Setting</string>
+    <string name="main_info_safemode">Safe</string>
+    <string name="main_info_smartmode">Smart</string>
+    <string name="main_info_history">History List</string>
+    <string name="main_info_alarm_record">Alarm List</string>
+    <string name="main_info_call_record">Call List</string>
+    <string name="main_info_msg_record">Info List</string>
+    <string name="main_info_none">No</string>
+
+    <!-- SateAdapter.java -->
+    <string name="safe_atHome">Home</string>
+    <string name="safe_rest">Rest</string>
+    <string name="safe_leaveHome">Leave</string>
+    <string name="safe_noProtected">UnSafe</string>
+
+    <!-- SmartAdapter.java -->
+    <string name="smart_atHome">Home</string>
+    <string name="smart_dining">Dinner</string>
+    <string name="smart_sleep">Night</string>
+    <string name="smart_entertainment">Game</string>
+    <string name="smart_theater">Video</string>
+    <string name="smart_closeAll">AllClose</string>
+
+    <!-- ModeControl.java -->
+    <string name="modecontrol_title_safemode">Safe</string>
+    <string name="modecontrol_title_smartmode">Smart</string>
+    <string name="modecontrol_unknown">Unknown</string>
+
+    <!-- RefreshableView.java -->
+    <string name="updated_at"></string>
+    <string name="refreshing">Refreshing</string>
+    <string name="pull_to_refresh">Pull to refresh</string>
+    <string name="pull_to_loading">No More</string>
+    <string name="release_to_refresh">Release to refresh</string>
+
+    <!-- -->
+    <string name="callrecord_saved_call">" &#x0020;Answered"</string>
+    <string name="callrecord_missed_call">" &#x0020;Missed"</string>
+    <string name="callinfo_title">Details</string>
+    <string name="callinfo_photo_fail">Failed to get the picture</string>
+    <string name="callinfo_photo_nophoto">No picture</string>
+    <string name="callinfo_photo_busy">Server busy, please wait a moment!</string>
+    <string name="callinfo_photo_timeout">Get picture timeout</string>
+
+    <!-- 相册 -->
+    <string name="viewpager_indicator">%1$d/%2$d</string>
+    <string name="devicelist_edit">Edit</string>
+    <string name="devicelist_cancel">Cancel</string>
+    <string name="devicelist_selectall">Select All</string>
+    <string name="devicelist_deleall">Delete All</string>
+    <string name="devicelist_deleteselected">Delete</string>
+
+    <!-- activity_alarm_dialog.xml -->
+    <string name="alarm_dialog_title">Alarm</string>
+    <string name="alarm_dialog_disalarm">DisAlarm</string>
+    <string name="alarm_dialog_ignore">Ignore</string>
+
+    <!-- activity_qrinfo.xml -->
+    <string name="qrinfo_title">Authorized Opening</string>
+    <string name="qrinfo_endtime">Effective time</string>
+    <string name="qrinfo_unlockcount">Number of unlocks</string>
+    <string name="qrinfo_generate">Authorize</string>
+    <string name="qrinfo_unlockcount_is_null">Please input the number of unlocks</string>
+    <string name="qrinfo_qr_saved">Save the QR code to the album</string>
+    <string name="qrinfo_qr_save_ok">Share QR code</string>
+    <string name="qrinfo_qr_save_fail">QR code failed to save</string>
+    <string name="qrinfo_qr_share">Share QR code</string>
+
+    <!-- share.xml -->
+    <string name="qq_firend">QQ friends</string>
+    <string name="wechat_firend">WeChat friends</string>
+    <string name="cancel">Cancel</string>
+    <!-- ShareUtil.java -->
+    <string name="share_title">Title</string>
+    <string name="share_content">Content</string>
+    <string name="share_error">Share error</string>
+    <string name="wechat_not_installed">WeChat is not installed!</string>
+    <string name="send_img_file_not_exist">The picture does not exist</string>
+
+    <!-- dialog_selector.xml -->
+    <string name="selector_cancel">Cancel</string>
+    <string name="selector_select">Select</string>
+    <string name="selector_title">Please Select The Time</string>
+    <string name="selector_year">Y</string>
+    <string name="selector_month">M</string>
+    <string name="selector_date">D</string>
+    <string name="selector_hour">H</string>
+    <string name="selector_minute">M</string>
+
+    <string name="main_alarm">Alarm</string>
+    <string name="main_room_number">room</string>
+</resources>

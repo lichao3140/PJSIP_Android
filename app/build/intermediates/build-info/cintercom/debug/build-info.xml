@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="21"
+    build-mode="FULL"
+    density="xhdpi"
+    format="10"
+    plugin-version="3.0.0"
+    timestamp="1511507126270"
+    token="-2378985157538865735"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2175" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="76" />
+    <task
+        name="verifier"
+        duration="45" />
+
+    <artifact
+        location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\outputs\apk\cintercom\debug\mobile_v1.0.44_2017_11_24_cintercom.apk"
+        type="SPLIT_MAIN" />
+    <artifact
+        location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\slices\slice_6.apk"
+        type="SPLIT" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1511507126270"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\outputs\apk\cintercom\debug\mobile_v1.0.44_2017_11_24_cintercom.apk"
+            type="SPLIT_MAIN" />
+        <artifact
+            location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\lqh\2700dp1\DPCIntercom_AndroidSDK_v1.0.44\PJSIP_Android\app\build\intermediates\split-apk\cintercom\debug\slices\slice_6.apk"
+            type="SPLIT" />
+    </build>
+
+</instant-run>

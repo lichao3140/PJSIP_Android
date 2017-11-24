@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+     <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/title_bg"
+        android:focusable="true"  
+		android:focusableInTouchMode="true" >
+
+        <TextView
+            android:id="@+id/setting_tv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:drawableLeft="@mipmap/png_changepsd_icon_back"
+            android:drawableStart="@mipmap/png_changepsd_icon_back"
+            android:drawablePadding="3dp"
+            android:gravity="center_vertical"
+            android:minWidth="48dp"
+            android:paddingLeft="10dp"
+            android:paddingStart="10dp"
+            android:text="@string/last"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/setting_title"
+            android:textColor="@color/white"
+            android:textSize="@dimen/title_textsize" />
+    </FrameLayout>
+    
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+    	android:background="@color/page_content_bg"
+        android:layout_weight="10" >
+        
+		<LinearLayout
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent"
+		    android:orientation="vertical"
+			android:paddingTop="20dp">
+		    
+		    <TextView
+                android:layout_width="90dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginStart="15dp"
+	            android:layout_marginLeft="15dp"
+		        android:paddingBottom="5dp"
+                android:layout_centerVertical="true"
+                android:text="@string/deviceinfo_info"
+                android:textColor="@color/doorbell_title"
+                android:textSize="18sp" />
+		    
+		   	<RelativeLayout
+		        android:id="@+id/setting_layout_devnote"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:background="@color/white"
+		        android:layout_marginTop="1px"
+		        android:paddingTop="10dp"
+		        android:paddingBottom="10dp">
+		        
+		        <TextView
+	                android:id="@+id/setting_tv_devnote"
+	                android:layout_width="90dp"
+	                android:layout_height="wrap_content"
+	                android:layout_alignParentLeft="true"
+	                android:layout_marginStart="15dp"
+		            android:layout_marginLeft="15dp"
+	                android:layout_centerVertical="true"
+	                android:text="@string/setdevice_devnote"
+	                android:textColor="@color/doorbell_title"
+	                android:textSize="16sp" />
+	
+	          	<View
+	                android:id="@+id/setting_view_devnote"
+	                android:layout_width="1dip"
+	                android:layout_height="20dip"
+	                android:layout_centerVertical="true"
+	                android:layout_gravity="center_horizontal"
+	                android:layout_marginLeft="2dp"
+	                android:layout_marginRight="2dp"
+	                android:layout_toRightOf="@+id/setting_tv_devnote"
+	                android:background="@color/page_content_bg" />
+	
+	            <EditText
+	                android:id="@+id/setting_edt_devnote"
+	                android:layout_width="match_parent"
+	                android:layout_height="wrap_content"
+	                android:layout_centerVertical="true"
+	                android:layout_marginLeft="10dp"
+	                android:layout_toRightOf="@+id/setting_view_devnote"
+	                android:background="@color/white"
+	                android:singleLine="true"
+	                android:maxLength="24"
+	                android:textColor="@color/history_grey"
+	                android:textSize="16sp" />
+				<!--android:textColor="@color/history_grey"-->
+				<!--android:textColor="@color/doorbell_title"-->
+		    </RelativeLayout>
+		    
+		   	<RelativeLayout
+		        android:id="@+id/setting_layout_devid"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:background="@color/white"
+		        android:layout_marginTop="1px"
+				android:layout_marginBottom="20dp"
+		        android:paddingTop="10dp"
+		        android:paddingBottom="10dp">
+		        
+		        <TextView
+	                android:id="@+id/setting_tv_devid"
+	                android:layout_width="90dp"
+	                android:layout_height="wrap_content"
+	                android:layout_alignParentLeft="true"
+	                android:layout_marginStart="15dp"
+		            android:layout_marginLeft="15dp"
+	                android:layout_centerVertical="true"
+	                android:text="@string/setting_devid"
+	                android:textColor="@color/doorbell_title"
+	                android:textSize="16sp" />
+	
+	          	<View
+	                android:id="@+id/setting_view_devid"
+	                android:layout_width="1dip"
+	                android:layout_height="20dip"
+	                android:layout_centerVertical="true"
+	                android:layout_gravity="center_horizontal"
+	                android:layout_marginLeft="2dp"
+	                android:layout_marginRight="2dp"
+	                android:layout_toRightOf="@+id/setting_tv_devid"
+	                android:background="@color/page_content_bg" />
+	
+	            <EditText
+	                android:id="@+id/setting_edt_devid"
+	                android:layout_width="match_parent"
+	                android:layout_height="wrap_content"
+	                android:layout_centerVertical="true"
+	                android:layout_marginLeft="10dp"
+	                android:layout_toRightOf="@+id/setting_view_devid"
+	                android:background="@color/white"
+	                android:editable="false"
+	                android:textColor="@color/history_grey"
+	                android:textSize="16sp" />
+
+				<!--android:maxLength="24"-->
+		    </RelativeLayout>
+		    
+		    <RelativeLayout
+		        android:id="@+id/setting_layout_history"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:background="@color/white"
+		        android:paddingTop="10dp"
+		        android:paddingBottom="10dp"
+				android:visibility="gone">
+		        
+				<TextView
+		            android:id="@+id/setting_tv_history"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_marginStart="15dp"
+		            android:layout_marginLeft="15dp"
+		            android:text="@string/history_title"
+		            android:textColor="@color/doorbell_title"
+		            android:textSize="16sp"
+		            android:layout_centerVertical="true"
+		            android:gravity="center_vertical" />
+				
+				<ImageView
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_alignParentRight="true"
+		            android:layout_centerVertical="true"
+		            android:background="@mipmap/png_next" />
+		    </RelativeLayout>
+		    
+		    <RelativeLayout
+				android:id="@+id/setting_layout_photo"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:background="@color/white"
+				android:layout_marginTop="1px"
+				android:paddingTop="10dp"
+				android:paddingBottom="10dp" >
+
+				<TextView
+					android:id="@+id/setting_tv_photo"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="15dp"
+					android:layout_marginLeft="15dp"
+					android:text="@string/photomessage_title"
+					android:textColor="@color/doorbell_title"
+					android:textSize="16sp"
+					android:layout_centerVertical="true"
+					android:gravity="center_vertical" />
+
+				<ImageView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_alignParentRight="true"
+					android:layout_centerVertical="true"
+					android:background="@mipmap/png_next" />
+			</RelativeLayout>
+
+			<RelativeLayout
+				android:id="@+id/setting_layout_qrcode"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:background="@color/white"
+				android:layout_marginTop="1px"
+				android:paddingTop="10dp"
+				android:paddingBottom="10dp"
+				android:visibility="gone" >
+
+				<TextView
+					android:id="@+id/setting_tv_qrcode"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="15dp"
+					android:layout_marginLeft="15dp"
+					android:text="@string/setting_qrcode_title"
+					android:textColor="@color/doorbell_title"
+					android:textSize="16sp"
+					android:layout_centerVertical="true"
+					android:gravity="center_vertical" />
+
+				<ImageView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_alignParentRight="true"
+					android:layout_centerVertical="true"
+					android:background="@mipmap/png_next" />
+			</RelativeLayout>
+		</LinearLayout>
+	</FrameLayout>
+</LinearLayout>

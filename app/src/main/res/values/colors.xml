@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="blue">#ff0000ff</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="light_grey">#e6e6e6</color>
+    <color name="black">#ff000000</color>
+
+
+    <color name="alpha">#00000000</color>
+
+
+    <color name="title_bg">#348ecb</color>
+    <color name="page_content_bg">#f0f0f0</color>
+
+    <color name="doorbell_title">#3d3e3a</color>
+    <color name="doorbell_content">#afafaf</color>
+
+    <color name="monitor_btn_text">#676767</color>
+
+    <color name="devicelist_tv_color">#007aff</color>
+
+    <color name="hint_red">#ffff4444</color>
+    <color name="hint_green">#ff99cc00</color>
+
+    <color name="transparent_white">#99ffffff</color>
+
+    <color name="history_red">#ffff0000</color>
+    <color name="history_grey">#ffA9A9A9</color>
+    <color name="history_blue">#ff20B2AA</color>
+    <color name="settings_history_listbg">#ffeeeeef</color>
+
+    <color name="shadow">#cc222222</color>
+    <color name="result_view">#b0000000</color>
+    <color name="possible_result_points">#c0ffbd21</color>
+
+
+    <color name="grey">#808080</color>
+    <color name="right_bg">#696969</color>
+    <color name="blur_bg">#FFFAF0</color>
+
+    <color name="common_red">#f05f4c</color>
+
+    <color name="green">#72e29a</color>
+</resources>

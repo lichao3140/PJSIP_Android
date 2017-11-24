@@ -1,0 +1,94 @@
+apply plugin: 'com.android.application'
+
+//打包时间
+def releaseTime() {
+    return new Date().format("yyyy_MM_dd", TimeZone.getTimeZone("UTC"));
+}
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '26.0.2'
+
+    //Android Studio 3.0适配outputFileName
+    flavorDimensions "25"
+    defaultConfig {
+        applicationId "com.dpower.cintercom"
+        minSdkVersion 15
+        targetSdkVersion 19
+        versionCode 3
+        versionName "1.0.44"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            //不开启混淆
+            minifyEnabled false
+            //混淆文件位置
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            // 批量打包
+//            applicationVariants.all { variant ->
+//                variant.outputs.each { output ->
+//                    def outputFile = output.outputFile
+//                    if (outputFile != null && outputFile.name.endsWith('.apk')) {
+//                        //输出apk名称为：渠道名_版本名_时间.apk
+//                        def fileName = "mobile_v${defaultConfig.versionName}_${releaseTime()}_${variant.productFlavors[0].name}.apk"
+//                        output.outputFile = new File(outputFile.parent, fileName)
+//                    }
+//                }
+//            }
+            android.applicationVariants.all { variant ->
+                variant.outputs.all {
+                    outputFileName = "mobile_v${defaultConfig.versionName}_${releaseTime()}_${variant.productFlavors[0].name}.apk"
+                }
+            }
+        }
+    }
+
+    //多渠道 的不同配置
+    productFlavors {
+        cintercom {
+            applicationId "com.dpower.cintercom"
+            buildConfigField("String", "appId", "\"CI\"")
+            // 获取值的方法  BuildConfig.oneType
+            buildConfigField("Integer", "oneType", "1")
+        }
+    }
+    signingConfigs {
+        debug {
+            v1SigningEnabled true
+            v2SigningEnabled true
+        }
+        release {
+            v1SigningEnabled true   //V1
+            v2SigningEnabled true   //V2
+        }
+    }
+
+    sourceSets{
+        main{
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+}
+
+dependencies {
+    //    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha7'
+    compile 'com.google.code.gson:gson:2.2.4'
+    testCompile 'junit:junit:4.12'
+    compile files('libs/android-core-3.1.1-SNAPSHOT.jar')
+    compile files('libs/core-3.1.1-SNAPSHOT.jar')
+    //    compile files('libs/gson-2.2.1.jar')
+    compile files('libs/libammsdk.jar')
+    compile files('libs/mta-sdk-1.6.2.jar')
+    compile files('libs/open_sdk_r5756.jar')
+    compile files('libs/jcore-android-1.1.6.jar')
+    compile files('libs/jpush-android-3.0.8.jar')
+    compile files('libs/dpower-sip-last.jar')
+}

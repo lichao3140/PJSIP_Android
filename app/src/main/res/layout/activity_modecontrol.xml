@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:id="@+id/modeconrol_layout_title"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/title_bg" >
+
+        <TextView
+            android:id="@+id/modecontrol_tv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:drawableLeft="@mipmap/png_changepsd_icon_back"
+            android:drawableStart="@mipmap/png_changepsd_icon_back"
+            android:drawablePadding="3dp"
+            android:gravity="center_vertical"
+            android:minWidth="48dp"
+            android:paddingLeft="10dp"
+            android:paddingStart="10dp"
+            android:text="@string/last"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/modecontrol_tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text=""
+            android:textColor="@color/white"
+            android:textSize="@dimen/title_textsize" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:background="@mipmap/jpg_bg"
+        android:layout_weight="10" >
+        <!--android:background="@color/page_content_bg"-->
+
+        <GridView
+            android:id="@+id/modecontrol_gv_table"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_vertical"
+            android:scrollbarStyle="outsideOverlay"
+            android:cacheColorHint="@color/alpha"
+            android:listSelector="@color/alpha"
+            android:numColumns="2" />
+    </FrameLayout>
+</LinearLayout>
